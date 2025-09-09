@@ -1,1 +1,1 @@
-# sistema-de-estoque-e-cadastro
+sistema de cadastrar estoque de produtos
